@@ -1,6 +1,1 @@
-Hello two
-<<<<<<< HEAD
-44
-=======
-4444
->>>>>>> dev
+His hello
